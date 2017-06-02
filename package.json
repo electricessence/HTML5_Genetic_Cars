@@ -1,0 +1,27 @@
+{
+  "name": "html5-genetic-cars",
+  "version": "1.0.0",
+  "description": "HTML5 Genetic Cars\r ==================",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electricessence/HTML5_Genetic_Cars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electricessence/HTML5_Genetic_Cars/issues"
+  },
+  "homepage": "https://github.com/electricessence/HTML5_Genetic_Cars#readme",
+  "dependencies": {
+    "box2d": "^1.0.0",
+    "seedrandom": "^2.4.3"
+  },
+  "devDependencies": {
+    "@types/box2d": "0.0.31",
+    "@types/seedrandom": "^2.4.27"
+  }
+}
